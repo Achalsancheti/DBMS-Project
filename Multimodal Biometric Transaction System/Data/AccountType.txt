@@ -1,0 +1,5 @@
+INSERT INTO EmployeeBranch VALUES(1,"Savings");
+
+INSERT INTO EmployeeBranch VALUES(2,"Checking");
+
+INSERT INTO EmployeeBranch VALUES(3,"Credit Card");

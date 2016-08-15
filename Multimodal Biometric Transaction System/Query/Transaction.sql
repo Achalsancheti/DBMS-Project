@@ -1,0 +1,13 @@
+START Transaction;
+savepoint savepoint1;
+insert into transaction values(27,2,1000,'2015/12/02 2:20:45');
+insert into transaction values(28,3,1000,'2015/12/02 2:20:45');
+insert into transaction values(29,4,1000,'2015/12/02 2:20:45');
+insert into transaction values(30,2,1000,'2015/12/02 2:20:45');
+insert into transaction values(31,6,1000,'2015/12/02 2:20:45');
+insert into transaction values(32,4,1000,'2015/12/02 2:20:45');
+insert into transaction values(33,1,1000,'2015/12/02 2:20:45');
+SELECT * from transaction;
+rollback to SAVEPOINT savepoint1;
+insert into transaction values(26,1,1000,'2015/12/02 2:20:45');
+commit;

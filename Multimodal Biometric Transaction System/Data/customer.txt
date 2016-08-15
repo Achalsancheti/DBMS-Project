@@ -1,0 +1,199 @@
+INSERT INTO Customer VALUES("Gordon",1,"Edward",6/20/1987,1,"Male","Steve",866867719412,"sgordon0@omniture.com",28,1);
+
+INSERT INTO Customer VALUES("Ramos",2,"Sara",7/9/1985,2,"Female","Laura",863081781228,"lramos1@who.int",30,2);
+
+INSERT INTO Customer VALUES("Cunningham",3,"Rose",7/10/1987,3,"Female","Lisa",73664610492,"lcunningham2@cbc.ca",28,3);
+
+INSERT INTO Customer VALUES("Sanders",4,"Linda",3/26/1998,4,"Female","Janice",2349496960287,"jsanders3@mozilla.org",17,4);
+
+INSERT INTO Customer VALUES("Schmidt",5,"Earl",9/19/1997,5,"Male","Roger",12125522300,"rschmidt4@myspace.com",18,5);
+
+INSERT INTO Customer VALUES("James",6,"Janet",11/13/1986,6,"Female","Melissa",72519259054,"mjames5@dailymail.co.uk",29,6);
+
+INSERT INTO Customer VALUES("Elliott",7,"Shirley",11/14/1996,7,"Female","Marie",621727525016,"melliott6@networksolutions.com",19,7);
+
+INSERT INTO Customer VALUES("Greene",8,"Andrea",3/7/1997,8,"Female","Theresa",556849652589,"tgreene7@flickr.com",18,8);
+
+INSERT INTO Customer VALUES("Sullivan",9,"Willie",12/30/1992,9,"Male","William",3554596947790,"wsullivan8@dagondesign.com",23,9);
+
+INSERT INTO Customer VALUES("Bell",10,"Janet",11/17/1989,10,"Female","Denise",868966723374,"dbell9@virginia.edu",26,10);
+
+INSERT INTO Customer VALUES("Perez",11,"Mary",11/5/1981,11,"Female","Margaret",441104597110,"mpereza@senate.gov",34,11);
+
+INSERT INTO Customer VALUES("Dixon",12,"Ryan",11/21/1992,12,"Male","Roy",3517625698068,"rdixonb@prnewswire.com",23,12);
+
+INSERT INTO Customer VALUES("Burke",13,"Justin",12/18/1996,13,"Male","Jason",513635865495,"jburkec@opera.com",19,13);
+
+INSERT INTO Customer VALUES("Marshall",14,"Julia",8/25/1996,14,"Female","Norma",556572604396,"nmarshalld@abc.net.au",19,14);
+
+INSERT INTO Customer VALUES("Hawkins",15,"Juan",5/10/1995,15,"Male","Howard",639424006949,"hhawkinse@usatoday.com",20,15);
+
+INSERT INTO Customer VALUES("Kelly",16,"Sean",11/5/1982,16,"Male","Edward",631834253028,"ekellyf@businessweek.com",33,16);
+
+INSERT INTO Customer VALUES("Rodriguez",17,"Sarah",10/28/1986,17,"Female","Margaret",622816921313,"mrodriguezg@cisco.com",29,17);
+
+INSERT INTO Customer VALUES("Ferguson",18,"Amanda",8/4/1991,18,"Female","Rachel",2679069585349,"rfergusonh@angelfire.com",24,18);
+
+INSERT INTO Customer VALUES("Myers",19,"Phillip",3/6/1991,19,"Male","Billy",331466160623,"bmyersi@wp.com",24,19);
+
+INSERT INTO Customer VALUES("Torres",20,"Doris",3/25/1990,20,"Female","Brenda",519137346726,"btorresj@unc.edu",25,20);
+
+INSERT INTO Customer VALUES("Thomas",21,"Michelle",12/21/1983,21,"Female","Robin",77882207963,"rthomask@ox.ac.uk",32,21);
+
+INSERT INTO Customer VALUES("Garcia",22,"Jose",12/9/1980,22,"Male","Howard",626251015242,"hgarcial@ycombinator.com",35,22);
+
+INSERT INTO Customer VALUES("Shaw",23,"Helen",5/10/1990,23,"Female","Kathy",3558185976909,"kshawm@eepurl.com",25,23);
+
+INSERT INTO Customer VALUES("Thompson",24,"Lois",4/15/1998,24,"Female","Anna",521779630549,"athompsonn@weather.com",17,24);
+
+INSERT INTO Customer VALUES("Bishop",25,"Billy",1/8/1984,25,"Male","Roy",74021356621,"rbishopo@wunderground.com",31,25);
+
+INSERT INTO Customer VALUES("Jones",26,"Peter",11/16/1997,26,"Male","Larry",9668398713367,"ljonesp@meetup.com",18,26);
+
+INSERT INTO Customer VALUES("Franklin",27,"Kevin",11/14/1997,27,"Male","George",865624463346,"gfranklinq@tripod.com",18,27);
+
+INSERT INTO Customer VALUES("Kennedy",28,"Joshua",5/25/1992,28,"Male","Walter",79446996897,"wkennedyr@state.gov",23,28);
+
+INSERT INTO Customer VALUES("Fuller",29,"Sandra",5/23/1981,29,"Female","Susan",669486785046,"sfullers@pagespersoorange.fr",34,29);
+
+INSERT INTO Customer VALUES("Schmidt",30,"Anne",11/3/1984,30,"Female","Betty",863968133492,"bschmidtt@moonfruit.com",31,30);
+
+INSERT INTO Customer VALUES("Long",31,"Jimmy",3/2/1983,31,"Male","Peter",332699312962,"plongu@archive.org",32,31);
+
+INSERT INTO Customer VALUES("Turner",32,"Andrea",1/4/1989,32,"Female","Anna",4201028177152,"aturnerv@ezinearticles.com",26,32);
+
+INSERT INTO Customer VALUES("Black",33,"Sharon",9/14/1998,33,"Female","Patricia",866174450607,"pblackw@house.gov",17,33);
+
+INSERT INTO Customer VALUES("Ramirez",34,"Robin",12/16/1980,34,"Female","Tina",861708808204,"tramirezx@domainmarket.com",35,34);
+
+INSERT INTO Customer VALUES("Wright",35,"Johnny",8/29/1984,35,"Male","Peter",622253942592,"pwrighty@nasa.gov",31,35);
+
+INSERT INTO Customer VALUES("Lane",36,"Roger",3/6/1984,36,"Male","Donald",639471930911,"dlanez@miibeian.gov.cn",31,36);
+
+INSERT INTO Customer VALUES("Perry",37,"Adam",8/14/1990,37,"Male","Mark",3512689535194,"mperry10@live.com",25,37);
+
+INSERT INTO Customer VALUES("Ray",38,"Laura",11/5/1989,38,"Female","Kelly",3516406352699,"kray11@omniture.com",26,38);
+
+INSERT INTO Customer VALUES("Wheeler",39,"Thomas",10/24/1993,39,"Male","Charles",3581676844675,"cwheeler12@cpanel.net",22,39);
+
+INSERT INTO Customer VALUES("Garrett",40,"Edward",5/31/1982,40,"Male","Antonio",637986630922,"agarrett13@merriamwebster.com",33,40);
+
+INSERT INTO Customer VALUES("Morgan",41,"Matthew",9/9/1989,41,"Male","Nicholas",73889263985,"nmorgan14@deviantart.com",26,41);
+
+INSERT INTO Customer VALUES("Phillips",42,"Marilyn",3/3/1987,42,"Female","Patricia",9674498526579,"pphillips15@howstuffworks.com",28,42);
+
+INSERT INTO Customer VALUES("Larson",43,"Marie",3/17/1989,43,"Female","Irene",637446267855,"ilarson16@ucoz.ru",26,43);
+
+INSERT INTO Customer VALUES("Stewart",44,"Raymond",2/17/1981,44,"Male","Phillip",632847329235,"pstewart17@com.com",34,44);
+
+INSERT INTO Customer VALUES("Perkins",45,"Lois",4/24/1982,45,"Female","Mildred",866253984161,"mperkins18@pagespersoorange.fr",33,45);
+
+INSERT INTO Customer VALUES("Morales",46,"Justin",8/30/1987,46,"Male","Johnny",628704760130,"jmorales19@cpanel.net",28,46);
+
+INSERT INTO Customer VALUES("Carroll",47,"Anna",4/28/1988,47,"Female","Paula",863473490268,"pcarroll1a@gizmodo.com",27,47);
+
+INSERT INTO Customer VALUES("Gonzales",48,"Jose",5/25/1996,48,"Male","Russell",864102346787,"rgonzales1b@independent.co.uk",19,48);
+
+INSERT INTO Customer VALUES("Bennett",49,"Harold",12/20/1987,49,"Male","Andrew",626929527934,"abennett1c@barnesandnoble.com",28,49);
+
+INSERT INTO Customer VALUES("Anderson",50,"Denise",12/4/1982,50,"Female","Beverly",3832806960597,"banderson1d@scribd.com",33,50);
+
+INSERT INTO Customer VALUES("Fox",51,"Larry",5/9/1995,51,"Male","Juan",275185020079,"jfox1e@tripadvisor.com",20,51);
+
+INSERT INTO Customer VALUES("Long",52,"Dennis",1/16/1988,52,"Male","Paul",587433883968,"plong1f@ustream.tv",27,52);
+
+INSERT INTO Customer VALUES("Ellis",53,"Patrick",5/11/1983,53,"Male","Roy",866019688907,"rellis1g@ebay.co.uk",32,53);
+
+INSERT INTO Customer VALUES("Jordan",54,"Jimmy",10/31/1986,54,"Male","Steven",557252325743,"sjordan1h@hud.gov",29,54);
+
+INSERT INTO Customer VALUES("Kelly",55,"Chris",10/16/1981,55,"Male","Ralph",2341508157399,"rkelly1i@wsj.com",34,55);
+
+INSERT INTO Customer VALUES("Miller",56,"Lillian",1/25/1981,56,"Female","Ruby",71319460974,"rmiller1j@answers.com",34,56);
+
+INSERT INTO Customer VALUES("West",57,"Jean",3/7/1992,57,"Female","Doris",812318598895,"dwest1k@usda.gov",23,57);
+
+INSERT INTO Customer VALUES("Washington",58,"Tammy",9/15/1995,58,"Female","Christina",625325427873,"cwashington1l@google.pl",20,58);
+
+INSERT INTO Customer VALUES("Willis",59,"Anne",7/30/1986,59,"Female","Marilyn",627362818866,"mwillis1m@walmart.com",29,59);
+
+INSERT INTO Customer VALUES("Reed",60,"Helen",6/6/1995,60,"Female","Robin",77899165154,"rreed1n@nsw.gov.au",20,60);
+
+INSERT INTO Customer VALUES("Murphy",61,"Diane",9/24/1984,61,"Female","Gloria",15289992913,"gmurphy1o@answers.com",31,61);
+
+INSERT INTO Customer VALUES("Richardson",62,"Betty",3/11/1995,62,"Female","Jennifer",868307289729,"jrichardson1p@nationalgeographic.com",20,62);
+
+INSERT INTO Customer VALUES("Smith",63,"Amy",4/8/1998,63,"Female","Mary",578375882166,"msmith1q@springer.com",17,63);
+
+INSERT INTO Customer VALUES("Armstrong",64,"Samuel",12/5/1993,64,"Male","Randy",75708457327,"rarmstrong1r@mapquest.com",22,64);
+
+INSERT INTO Customer VALUES("Willis",65,"Doris",4/24/1993,65,"Female","Linda",484976671384,"lwillis1s@addtoany.com",22,65);
+
+INSERT INTO Customer VALUES("Wallace",66,"Harry",8/7/1986,66,"Male","Jack",489969696349,"jwallace1t@barnesandnoble.com",29,66);
+
+INSERT INTO Customer VALUES("Patterson",67,"Christina",5/18/1985,67,"Female","Donna",8561208188459,"dpatterson1u@opensource.org",30,67);
+
+INSERT INTO Customer VALUES("Wood",68,"Adam",11/29/1992,68,"Male","Bruce",868438471330,"bwood1v@businesswire.com",23,68);
+
+INSERT INTO Customer VALUES("Holmes",69,"Ruth",1/7/1983,69,"Female","Mary",868507558710,"mholmes1w@businessweek.com",32,69);
+
+INSERT INTO Customer VALUES("Daniels",70,"Louis",2/14/1990,70,"Male","Billy",73482740007,"bdaniels1x@i2i.jp",25,70);
+
+INSERT INTO Customer VALUES("Murray",71,"Nicole",4/17/1997,71,"Female","Laura",77219783294,"lmurray1y@flavors.me",18,71);
+
+INSERT INTO Customer VALUES("Lee",72,"Robert",1/7/1997,72,"Male","Arthur",3516418505083,"alee1z@aol.com",18,72);
+
+INSERT INTO Customer VALUES("Hansen",73,"David",3/19/1985,73,"Male","Antonio",3899888486786,"ahansen20@yale.edu",30,73);
+
+INSERT INTO Customer VALUES("Rose",74,"Mark",8/4/1981,74,"Male","Gerald",3875706091466,"grose21@deliciousdays.com",34,74);
+
+INSERT INTO Customer VALUES("Ross",75,"Dorothy",12/25/1997,75,"Female","Lillian",866181819230,"lross22@gmpg.org",18,75);
+
+INSERT INTO Customer VALUES("Wood",76,"Lois",8/8/1981,76,"Female","Wanda",11006014961,"wwood23@ted.com",34,76);
+
+INSERT INTO Customer VALUES("Baker",77,"Cheryl",12/20/1983,77,"Female","Virginia",548556318189,"vbaker24@google.pl",32,77);
+
+INSERT INTO Customer VALUES("Bradley",78,"Anna",10/8/1992,78,"Female","Angela",9941923656044,"abradley25@example.com",23,78);
+
+INSERT INTO Customer VALUES("Thomas",79,"Mark",2/19/1997,79,"Male","Jimmy",438932777643,"jthomas26@webnode.com",18,79);
+
+INSERT INTO Customer VALUES("Parker",80,"Julie",6/12/1983,80,"Female","Heather",869963458121,"hparker27@typepad.com",32,80);
+
+INSERT INTO Customer VALUES("Martinez",81,"Jesse",1/27/1994,81,"Male","Harry",629978806291,"hmartinez28@overblog.com",21,81);
+
+INSERT INTO Customer VALUES("Powell",82,"Janice",1/4/1997,82,"Female","Wanda",863576056145,"wpowell29@businessinsider.com",18,82);
+
+INSERT INTO Customer VALUES("Rice",83,"Christina",1/16/1994,83,"Female","Margaret",861523456102,"mrice2a@github.io",21,83);
+
+INSERT INTO Customer VALUES("Hall",84,"Douglas",4/5/1990,84,"Male","Clarence",2648437148801,"chall2b@wikipedia.org",25,84);
+
+INSERT INTO Customer VALUES("Turner",85,"Jose",1/10/1997,85,"Male","Phillip",2691512534975,"pturner2c@youtu.be",18,85);
+
+INSERT INTO Customer VALUES("Nguyen",86,"Robin",7/29/1981,86,"Female","Amanda",861451940322,"anguyen2d@zdnet.com",34,86);
+
+INSERT INTO Customer VALUES("Fisher",87,"Sharon",1/1/1991,87,"Female","Shirley",866945816357,"sfisher2e@upenn.edu",24,87);
+
+INSERT INTO Customer VALUES("Gutierrez",88,"Barbara",8/26/1986,88,"Female","Sarah",863203497984,"sgutierrez2f@free.fr",29,88);
+
+INSERT INTO Customer VALUES("Medina",89,"Shirley",4/2/1995,89,"Female","Beverly",865835322869,"bmedina2g@comcast.net",20,89);
+
+INSERT INTO Customer VALUES("Kelly",90,"Frances",6/14/1996,90,"Female","Dorothy",625816283562,"dkelly2h@time.com",19,90);
+
+INSERT INTO Customer VALUES("Baker",91,"Robin",1/15/1995,91,"Female","Doris",9946014887736,"dbaker2i@newsvine.com",20,91);
+
+INSERT INTO Customer VALUES("Mendoza",92,"Theresa",12/11/1991,92,"Female","Rachel",861206777017,"rmendoza2j@eepurl.com",24,92);
+
+INSERT INTO Customer VALUES("Kim",93,"Rachel",5/20/1993,93,"Female","Irene",863485746133,"ikim2k@cpanel.net",22,93);
+
+INSERT INTO Customer VALUES("George",94,"Sara",7/12/1986,94,"Female","Cheryl",621284109686,"cgeorge2l@goodreads.com",29,94);
+
+INSERT INTO Customer VALUES("Rogers",95,"Gary",8/1/1990,95,"Male","Benjamin",4207182310593,"brogers2m@opera.com",25,95);
+
+INSERT INTO Customer VALUES("Richards",96,"Adam",9/23/1995,96,"Male","Ronald",3808447358447,"rrichards2n@jalbum.net",20,96);
+
+INSERT INTO Customer VALUES("Peterson",97,"Randy",11/18/1998,97,"Male","Edward",9646607230475,"epeterson2o@omniture.com",17,97);
+
+INSERT INTO Customer VALUES("Kim",98,"Debra",1/11/1985,98,"Female","Janice",312099433599,"jkim2p@mozilla.com",30,98);
+
+INSERT INTO Customer VALUES("Martinez",99,"Phyllis",9/10/1992,99,"Female","Joyce",74603805218,"jmartinez2q@yale.edu",23,99);
+
+INSERT INTO Customer VALUES("Ford",100,"Patricia",7/15/1995,100,"Female","Ruby",474043166045,"rford2r@columbia.edu",20,100);

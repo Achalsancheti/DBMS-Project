@@ -1,0 +1,99 @@
+INSERT INTO Employee VALUES(1,"Donna","Douglas","Kelly",56,75278559754,"Desktop Support Technician","dkelly0@usatoday.com");
+
+INSERT INTO Employee VALUES(2,"Ryan","Earl","Barnes",67,626641912431,"Accounting Assistant II","ebarnes1@1und1.de");
+
+INSERT INTO Employee VALUES(3,"George","Kevin","Romero",96,3806654384318,"Financial Analyst","kromero2@harvard.edu");
+
+INSERT INTO Employee VALUES(4,"George","Jerry","Little",65,867205584934,"Project Manager","jlittle3@cbsnews.com");
+
+INSERT INTO Employee VALUES(5,"Judy","Chris","Meyer",90,637167196644,"Geologist II","cmeyer4@eventbrite.com");
+
+INSERT INTO Employee VALUES(6,"Shirley","Albert","Cooper",60,636707242298,"Environmental Tech","acooper5@admin.ch");
+
+INSERT INTO Employee VALUES(7,"Lori","Joseph","Hernandez",86,869961354734,"Paralegal","jhernandez6@artisteer.com");
+
+INSERT INTO Employee VALUES(8,"Emily","Gary","Lawrence",60,556551009545,"Account Executive","glawrence7@toplist.cz");
+
+INSERT INTO Employee VALUES(9,"Joan","Louis","Mason",86,337537253218,"Quality Control Specialist","lmason8@latimes.com");
+
+INSERT INTO Employee VALUES(10,"Nicole","Keith","Tucker",83,586103988664,"Business Systems Development Analyst","ktucker9@cornell.edu");
+
+INSERT INTO Employee VALUES(11,"Deborah","Michael","Richards",81,331315578905,"Librarian","mrichardsa@nasa.gov");
+
+INSERT INTO Employee VALUES(12,"Jacqueline","Wayne","Mendoza",53,3586287237685,"Technical Writer","wmendozab@addtoany.com");
+
+INSERT INTO Employee VALUES(13,"Patrick","Roger","Graham",66,2556393008752,"Programmer Analyst II","rgrahamc@wikipedia.org");
+
+INSERT INTO Employee VALUES(14,"Jack","Kevin","George",86,864841222242,"Nurse","kgeorged@barnesandnoble.com");
+
+INSERT INTO Employee VALUES(15,"Wanda","Philip","Gutierrez",64,669996674370,"Electrical Engineer","pgutierreze@dailymail.co.uk");
+
+INSERT INTO Employee VALUES(16,"Alan","Jack","Adams",70,627063075574,"Account Coordinator","jadamsf@about.com");
+
+INSERT INTO Employee VALUES(17,"Debra","George","Wallace",98,5024957964103,"Analyst Programmer","gwallaceg@google.ru");
+
+INSERT INTO Employee VALUES(18,"Virginia","Philip","Holmes",82,3802382785660,"Recruiter","pholmesh@hao123.com");
+
+INSERT INTO Employee VALUES(19,"Alan","Michael","Smith",58,639725003924,"Physical Therapy Assistant","msmithi@elpais.com");
+
+INSERT INTO Employee VALUES(20,"Arthur","Ronald","Weaver",78,554542258537,"VP Quality Control","rweaverj@reference.com");
+
+INSERT INTO Employee VALUES(21,"Jason","James","Parker",68,862437269217,"Recruiter","jparkerk@yahoo.co.jp");
+
+INSERT INTO Employee VALUES(22,"Ann","Harold","Long",86,483947189415,"GIS Technical Architect","hlongl@alibaba.com");
+
+INSERT INTO Employee VALUES(23,"Kenneth","Willie","Morales",53,302046847773,"Systems Administrator III","wmoralesm@usda.gov");
+
+INSERT INTO Employee VALUES(24,"Harold","Steve","Medina",63,622254990386,"Speech Pathologist","smedinan@domainmarket.com");
+
+INSERT INTO Employee VALUES(25,"Edward","Carl","Cruz",62,623711538948,"Director of Sales","ccruzo@shutterfly.com");
+
+INSERT INTO Employee VALUES(26,"Victor","Ralph","Ward",100,558566042599,"Physical Therapy Assistant","rwardp@sogou.com");
+
+INSERT INTO Employee VALUES(27,"Matthew","Steve","Scott",50,9771006413371,"Analog Circuit Design manager","sscottq@pbs.org");
+
+INSERT INTO Employee VALUES(28,"Elizabeth","Martin","Collins",80,555838648224,"Staff Scientist","mcollinsr@java.com");
+
+INSERT INTO Employee VALUES(29,"Elizabeth","Dennis","Foster",59,864026510425,"Financial Advisor","dfosters@prlog.org");
+
+INSERT INTO Employee VALUES(30,"Anne","Walter","Matthews",79,6919915356503,"Financial Advisor","wmatthewst@stanford.edu");
+
+INSERT INTO Employee VALUES(31,"Todd","Larry","Stewart",83,635903376575,"Biostatistician I","lstewartu@nature.com");
+
+INSERT INTO Employee VALUES(32,"Sarah","Harold","Freeman",87,326001459428,"Teacher","hfreemanv@theatlantic.com");
+
+INSERT INTO Employee VALUES(33,"Matthew","Jerry","Pierce",70,862735731603,"VP Quality Control","jpiercew@t.co");
+
+INSERT INTO Employee VALUES(34,"Irene","Robert","Simmons",76,78758182904,"Product Engineer","rsimmonsx@webs.com");
+
+INSERT INTO Employee VALUES(35,"Wanda","Brian","Burton",62,864578728722,"VP Product Management","bburtony@blogspot.com");
+
+INSERT INTO Employee VALUES(36,"Sara","Kevin","Cook",57,864225795725,"Software Engineer I","kcookz@amazonaws.com");
+
+INSERT INTO Employee VALUES(37,"Stephanie","Henry","Andrews",58,3812778064447,"Assistant Professor","handrews10@printfriendly.com");
+
+INSERT INTO Employee VALUES(38,"Jose","David","Chavez",96,623722712626,"Statistician III","dchavez11@oakley.com");
+
+INSERT INTO Employee VALUES(39,"Paula","Carlos","Parker",69,9945734718755,"Project Manager","cparker12@vistaprint.com");
+
+INSERT INTO Employee VALUES(40,"Louis","Brian","Hart",72,543576688866,"Actuary","bhart13@cmu.edu");
+
+INSERT INTO Employee VALUES(41,"Nicholas","Joshua","Wallace",85,315719514716,"Nurse","jwallace14@ucsd.edu");
+
+INSERT INTO Employee VALUES(42,"Annie","Jesse","King",100,861571246934,"Sales Representative","jking15@si.edu");
+
+INSERT INTO Employee VALUES(43,"Carlos","Matthew","Ellis",66,628279232264,"Dental Hygienist","mellis16@pinterest.com");
+
+INSERT INTO Employee VALUES(44,"Jonathan","Peter","Fisher",68,579399630129,"Staff Accountant IV","pfisher17@netscape.com");
+
+INSERT INTO Employee VALUES(45,"Andrew","Samuel","Hansen",85,627548157742,"Geologist I","shansen18@whitehouse.gov");
+
+INSERT INTO Employee VALUES(46,"Joe","Jack","Anderson",58,866224086256,"Biostatistician IV","janderson19@google.co.uk");
+
+INSERT INTO Employee VALUES(47,"Donald","Russell","Johnson",78,866141937643,"Research Associate","rjohnson1a@umn.edu");
+
+INSERT INTO Employee VALUES(48,"Linda","Antonio","Holmes",74,2547215141655,"Web Developer I","aholmes1b@facebook.com");
+
+INSERT INTO Employee VALUES(49,"Ronald","Steve","Dixon",82,577081144504,"Senior Editor","sdixon1c@aol.com");
+
+INSERT INTO Employee VALUES(50,"Emily","Samuel","Crawford",80,861001560660,"Nurse","scrawford1d@amazonaws.com");

@@ -1,0 +1,199 @@
+INSERT INTO FingerPrintScanDetails VALUES(1,0.99,0.55,1.86,4.73);
+
+INSERT INTO FingerPrintScanDetails VALUES(2,1.22,1.33,2.14,1.04);
+
+INSERT INTO FingerPrintScanDetails VALUES(3,1.11,1.11,1.6,1.15);
+
+INSERT INTO FingerPrintScanDetails VALUES(4,0.33,0.61,2.72,0.31);
+
+INSERT INTO FingerPrintScanDetails VALUES(5,1.76,0.72,0.33,1.18);
+
+INSERT INTO FingerPrintScanDetails VALUES(6,0.38,0.06,2.43,1.6);
+
+INSERT INTO FingerPrintScanDetails VALUES(7,0.07,0.67,4.07,3.23);
+
+INSERT INTO FingerPrintScanDetails VALUES(8,5.97,1.97,1.56,2.81);
+
+INSERT INTO FingerPrintScanDetails VALUES(9,1.86,0.07,0.63,1.69);
+
+INSERT INTO FingerPrintScanDetails VALUES(10,2.96,0.01,1.27,4.71);
+
+INSERT INTO FingerPrintScanDetails VALUES(11,0.72,4.22,1.63,0.42);
+
+INSERT INTO FingerPrintScanDetails VALUES(12,0.53,1.49,3.35,1.27);
+
+INSERT INTO FingerPrintScanDetails VALUES(13,0.51,0.47,0.01,1.22);
+
+INSERT INTO FingerPrintScanDetails VALUES(14,0.27,2.01,0.7,5.04);
+
+INSERT INTO FingerPrintScanDetails VALUES(15,2.24,3.44,1.53,1.64);
+
+INSERT INTO FingerPrintScanDetails VALUES(16,0.37,2.45,0.29,0.77);
+
+INSERT INTO FingerPrintScanDetails VALUES(17,0.08,3.98,7.46,2.6);
+
+INSERT INTO FingerPrintScanDetails VALUES(18,0.79,1.1,0.37,1.23);
+
+INSERT INTO FingerPrintScanDetails VALUES(19,0.66,2.14,2.04,3);
+
+INSERT INTO FingerPrintScanDetails VALUES(20,4.02,1.06,1.09,4.11);
+
+INSERT INTO FingerPrintScanDetails VALUES(21,0.16,0.17,0.73,0.12);
+
+INSERT INTO FingerPrintScanDetails VALUES(22,0.87,2.96,1.27,0.78);
+
+INSERT INTO FingerPrintScanDetails VALUES(23,0.96,0.34,0.85,1.27);
+
+INSERT INTO FingerPrintScanDetails VALUES(24,0.16,2.81,0.39,2.42);
+
+INSERT INTO FingerPrintScanDetails VALUES(25,0.5,0.41,1.13,1.38);
+
+INSERT INTO FingerPrintScanDetails VALUES(26,2.84,3.93,3.77,1.37);
+
+INSERT INTO FingerPrintScanDetails VALUES(27,1.45,1.33,4.49,4.22);
+
+INSERT INTO FingerPrintScanDetails VALUES(28,2.13,0.64,2.77,2.09);
+
+INSERT INTO FingerPrintScanDetails VALUES(29,3.57,3.55,3.17,2.42);
+
+INSERT INTO FingerPrintScanDetails VALUES(30,1.47,0.46,0.95,0.64);
+
+INSERT INTO FingerPrintScanDetails VALUES(31,1.89,0.64,5.15,1.53);
+
+INSERT INTO FingerPrintScanDetails VALUES(32,2.71,0.16,2.48,0.68);
+
+INSERT INTO FingerPrintScanDetails VALUES(33,1.47,1.52,2.21,0.32);
+
+INSERT INTO FingerPrintScanDetails VALUES(34,0.82,0.69,1.92,0.11);
+
+INSERT INTO FingerPrintScanDetails VALUES(35,0.3,0.74,1.37,1.45);
+
+INSERT INTO FingerPrintScanDetails VALUES(36,2.79,1.78,0.95,1.44);
+
+INSERT INTO FingerPrintScanDetails VALUES(37,1.66,0.03,1.44,2.08);
+
+INSERT INTO FingerPrintScanDetails VALUES(38,4.09,0.62,3.56,1.79);
+
+INSERT INTO FingerPrintScanDetails VALUES(39,0.77,1.62,0.7,1.57);
+
+INSERT INTO FingerPrintScanDetails VALUES(40,1.05,1.2,2.22,0.93);
+
+INSERT INTO FingerPrintScanDetails VALUES(41,3.44,3.14,2.15,1.39);
+
+INSERT INTO FingerPrintScanDetails VALUES(42,1.87,3.35,1.47,3.12);
+
+INSERT INTO FingerPrintScanDetails VALUES(43,1.05,4.67,1.14,0.3);
+
+INSERT INTO FingerPrintScanDetails VALUES(44,0.31,1,0.45,1.08);
+
+INSERT INTO FingerPrintScanDetails VALUES(45,3.49,0.21,0.03,1.8);
+
+INSERT INTO FingerPrintScanDetails VALUES(46,2.82,2.26,0.64,2.51);
+
+INSERT INTO FingerPrintScanDetails VALUES(47,2.55,1.14,0.4,1.58);
+
+INSERT INTO FingerPrintScanDetails VALUES(48,1.67,3.84,2.01,0.04);
+
+INSERT INTO FingerPrintScanDetails VALUES(49,0.76,1.18,2.52,0.62);
+
+INSERT INTO FingerPrintScanDetails VALUES(50,1.91,4.97,1.38,0.35);
+
+INSERT INTO FingerPrintScanDetails VALUES(51,1.2,0.62,2.52,0.55);
+
+INSERT INTO FingerPrintScanDetails VALUES(52,0.11,0.99,1.34,2.68);
+
+INSERT INTO FingerPrintScanDetails VALUES(53,0.56,1.03,1.67,1.9);
+
+INSERT INTO FingerPrintScanDetails VALUES(54,0.64,2.27,1.99,0.37);
+
+INSERT INTO FingerPrintScanDetails VALUES(55,2.07,0.92,2.48,0.71);
+
+INSERT INTO FingerPrintScanDetails VALUES(56,0.54,1.15,3.26,2.8);
+
+INSERT INTO FingerPrintScanDetails VALUES(57,0.84,3.93,0.64,0.7);
+
+INSERT INTO FingerPrintScanDetails VALUES(58,0.08,1.91,1,2.33);
+
+INSERT INTO FingerPrintScanDetails VALUES(59,4.82,3.97,2.16,1.48);
+
+INSERT INTO FingerPrintScanDetails VALUES(60,0.99,1.97,3.97,0.52);
+
+INSERT INTO FingerPrintScanDetails VALUES(61,2.51,3.25,0.51,2.62);
+
+INSERT INTO FingerPrintScanDetails VALUES(62,1.24,1.78,0.44,2.13);
+
+INSERT INTO FingerPrintScanDetails VALUES(63,1.95,0.32,1.19,2.12);
+
+INSERT INTO FingerPrintScanDetails VALUES(64,1.13,1.04,0.35,0.7);
+
+INSERT INTO FingerPrintScanDetails VALUES(65,1.77,0.87,0.49,0.59);
+
+INSERT INTO FingerPrintScanDetails VALUES(66,0.46,1.04,1.51,1.43);
+
+INSERT INTO FingerPrintScanDetails VALUES(67,0.63,4.88,1.11,4.02);
+
+INSERT INTO FingerPrintScanDetails VALUES(68,1.62,1.45,1.39,0.78);
+
+INSERT INTO FingerPrintScanDetails VALUES(69,3.66,0.94,1.29,0.45);
+
+INSERT INTO FingerPrintScanDetails VALUES(70,0.91,0.84,0.14,0.04);
+
+INSERT INTO FingerPrintScanDetails VALUES(71,2.88,0.63,0.77,3.88);
+
+INSERT INTO FingerPrintScanDetails VALUES(72,2.8,3.25,1.55,4.91);
+
+INSERT INTO FingerPrintScanDetails VALUES(73,1.42,0.23,4.56,2.35);
+
+INSERT INTO FingerPrintScanDetails VALUES(74,0.88,1.2,1.53,0.19);
+
+INSERT INTO FingerPrintScanDetails VALUES(75,0,0.1,1.7,2.68);
+
+INSERT INTO FingerPrintScanDetails VALUES(76,4.02,0.72,1.88,2.4);
+
+INSERT INTO FingerPrintScanDetails VALUES(77,1.86,4.06,0.37,2.18);
+
+INSERT INTO FingerPrintScanDetails VALUES(78,0.35,0.43,2.64,0.81);
+
+INSERT INTO FingerPrintScanDetails VALUES(79,3.12,2.03,1.09,2.86);
+
+INSERT INTO FingerPrintScanDetails VALUES(80,1.03,1.73,0.77,0.76);
+
+INSERT INTO FingerPrintScanDetails VALUES(81,2.8,3.12,2.56,2.83);
+
+INSERT INTO FingerPrintScanDetails VALUES(82,1.18,0.92,1.45,0.66);
+
+INSERT INTO FingerPrintScanDetails VALUES(83,2.15,0.96,0.3,2.14);
+
+INSERT INTO FingerPrintScanDetails VALUES(84,0.84,3.8,2.76,0.32);
+
+INSERT INTO FingerPrintScanDetails VALUES(85,2.6,1.29,1.04,0.84);
+
+INSERT INTO FingerPrintScanDetails VALUES(86,2.43,0.65,3.1,2.41);
+
+INSERT INTO FingerPrintScanDetails VALUES(87,0.83,1.84,3.01,1.03);
+
+INSERT INTO FingerPrintScanDetails VALUES(88,1.6,2.88,0.18,0.4);
+
+INSERT INTO FingerPrintScanDetails VALUES(89,3.13,1.14,1.4,2.71);
+
+INSERT INTO FingerPrintScanDetails VALUES(90,1.03,4.11,7.99,3.66);
+
+INSERT INTO FingerPrintScanDetails VALUES(91,0.69,0.14,1.28,0.5);
+
+INSERT INTO FingerPrintScanDetails VALUES(92,4.15,1.65,1.98,0.31);
+
+INSERT INTO FingerPrintScanDetails VALUES(93,2.13,2.32,2.6,2.21);
+
+INSERT INTO FingerPrintScanDetails VALUES(94,1.91,3.55,0.96,0.53);
+
+INSERT INTO FingerPrintScanDetails VALUES(95,4.77,0.15,2.64,3.55);
+
+INSERT INTO FingerPrintScanDetails VALUES(96,1.86,1.4,1.25,5.86);
+
+INSERT INTO FingerPrintScanDetails VALUES(97,2.44,5.39,0.42,0.08);
+
+INSERT INTO FingerPrintScanDetails VALUES(98,2.36,3.21,0.27,2.86);
+
+INSERT INTO FingerPrintScanDetails VALUES(99,0.75,0.7,2.94,1.1);
+
+INSERT INTO FingerPrintScanDetails VALUES(100,0.94,0.71,1.06,1.74);
